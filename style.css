@@ -1,0 +1,12 @@
+.mytable{
+    margin-top: 35px;
+}
+table,td,th {
+    border: 1.2px solid black;
+  }
+  th, td {
+    padding: 15px;
+    text-align: center;
+    vertical-align: center;
+
+  }
